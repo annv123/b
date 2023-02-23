@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg6683"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="hvacimg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6685"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="398.5"
+     inkscape:cy="562"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs6680">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective10356" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.35;fill:#28220b;stroke:#280b0b;stroke-width:0.169;stroke-linejoin:bevel;stroke-opacity:0;fill-opacity:1"
+       id="rect7582"
+       width="115.40572"
+       height="101.82857"
+       x="41.297142"
+       y="87.119995" />
+    <rect
+       style="opacity:0.35;fill:#28220b;fill-opacity:1;stroke:#280b0b;stroke-width:0.169;stroke-linejoin:bevel;stroke-opacity:0"
+       id="rect10292"
+       width="132.37714"
+       height="59.399998"
+       x="23.194286"
+       y="119.36571" />
+    <rect
+       style="opacity:0.35;fill:#b3ff80;fill-opacity:1;stroke:#280b0b;stroke-width:0.169;stroke-linejoin:bevel;stroke-opacity:0"
+       id="rect10294"
+       width="83.159996"
+       height="155.57143"
+       x="110.88"
+       y="69.017143" />
+    <rect
+       style="opacity:0.35;fill:#d4ff2a;fill-opacity:1;stroke:#280b0b;stroke-width:0.169;stroke-linejoin:bevel;stroke-opacity:0"
+       id="rect10296"
+       width="127.85143"
+       height="119.9314"
+       x="31.680002"
+       y="140.29713" />
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g10358"
+       style="opacity:0.35;fill:#28220b;fill-opacity:1;stroke:#280b0b;stroke-width:0.63874;stroke-linejoin:bevel;stroke-opacity:0"
+       inkscape:perspectiveID="#perspective10356"
+       inkscape:corner0="0.77910205 : 0.043463025 : 0 : 0.22089795"
+       inkscape:corner7="0.4968231 : -0.083020162 : 0.25 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path10370"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         d="M 32.970641,117.67379 90.163682,64.200614 V 224.36353 l -57.193041,-48.1221 z"
+         points="90.163682,64.200614 90.163682,224.36353 32.970641,176.24143 32.970641,117.67379 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path10360"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="m 23.194285,115.97143 v 61.80201 l 9.776356,-1.53201 v -58.56764 z"
+         points="23.194285,177.77344 32.970641,176.24143 32.970641,117.67379 23.194285,115.97143 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path10368"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         d="m 23.194285,177.77344 46.954286,59.26085 20.015111,-12.67076 -57.193041,-48.1221 z"
+         points="70.148571,237.03429 90.163682,224.36353 32.970641,176.24143 23.194285,177.77344 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path10362"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         d="M 23.194285,115.97143 70.148571,50.120896 90.163682,64.200614 32.970641,117.67379 Z"
+         points="70.148571,50.120896 90.163682,64.200614 32.970641,117.67379 23.194285,115.97143 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path10366"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         d="M 70.148571,50.120896 V 237.03429 L 90.163682,224.36353 V 64.200614 Z"
+         points="70.148571,237.03429 90.163682,224.36353 90.163682,64.200614 70.148571,50.120896 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path10364"
+         style="fill:#7fff2a;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         d="M 23.194285,115.97143 70.148571,50.120896 V 237.03429 L 23.194285,177.77344 Z"
+         points="70.148571,50.120896 70.148571,237.03429 23.194285,177.77344 23.194285,115.97143 " />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.2606px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.35;fill:#0bf82b;fill-opacity:1;stroke:#28220b;stroke-width:0.671714;stroke-linejoin:bevel;stroke-opacity:0.34902"
+       x="59.411793"
+       y="128.31544"
+       id="text15085"
+       transform="scale(0.95307399,1.0492365)"><tspan
+         sodipodi:role="line"
+         id="tspan15083"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.2606px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#28220b;stroke-width:0.671714;stroke-opacity:0.34902;fill:#0bf82b;fill-opacity:1"
+         x="59.411793"
+         y="128.31544">HVAC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.905px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.61;fill:#f6ffd5;fill-opacity:1;stroke:#28220b;stroke-width:0.426103;stroke-linejoin:bevel;stroke-opacity:0.34902"
+       x="60.436123"
+       y="109.6539"
+       id="text15502"
+       transform="scale(0.63344396,1.5786716)"><tspan
+         sodipodi:role="line"
+         id="tspan15500"
+         style="stroke-width:0.426103;fill:#f6ffd5"
+         x="60.436123"
+         y="109.6539">Generation 2.0</tspan></text>
+  </g>
+</svg>
